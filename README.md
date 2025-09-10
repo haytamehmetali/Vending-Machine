@@ -1,6 +1,6 @@
-## ⚡ Vending Machine - Digital Design
+## ⚡ VendingMachine - Digital Design
 
-Vending Machine is a digital design project implemented in **VHDL**, focusing on simulating the behavior of an automated vending system. The design models item selection, coin insertion, change calculation, and product dispensing through modular hardware components.
+VendingMachine is a digital design project implemented in **VHDL**, focusing on simulating the behavior of an automated vending system. The design models item selection, coin insertion, change calculation, and product dispensing through modular hardware components.
 
 
 ## 📌 Project Description
